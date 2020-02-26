@@ -19,7 +19,7 @@ exports[`<App /> should match snapshot 1`] = `
     }
     testID="counter"
   >
-    You clicked the button 
+    You pressed the button 
     0
      times.
   </Text>

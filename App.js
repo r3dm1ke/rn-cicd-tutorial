@@ -9,7 +9,7 @@ export default function App() {
         style={styles.label}
         testID={'counter'}
       >
-        You clicked the button {counter} times.
+        You pressed the button {counter} times.
       </Text>
       <Button
         testID={'button'}
