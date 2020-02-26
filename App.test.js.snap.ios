@@ -5,7 +5,7 @@ exports[`<App /> should match snapshot 1`] = `
   style={
     Object {
       "alignItems": "center",
-      "backgroundColor": "#fff",
+      "backgroundColor": "green",
       "flex": 1,
       "justifyContent": "center",
     }
